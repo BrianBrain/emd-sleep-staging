@@ -2,6 +2,8 @@
 
 > 經驗模態分解（Empirical Mode Decomposition）如何用來讀懂睡眠腦波——一份可以動手玩的一頁式互動導覽。
 
+**🔗 線上瀏覽：https://brianbrain.github.io/emd-sleep-staging/**
+
 從 Huang et al. (1998) 的自適應分解演算法出發，一路走到單通道 EEG 的自動睡眠分期。
 所有訊號處理都在瀏覽器裡即時計算，**沒有使用任何外部函式庫**。
 
